@@ -1,0 +1,55 @@
+.a1{
+    height : 50px ;
+    background-color : sandybrown ;
+}
+.a2{
+    height : 50px ;
+    background-color : silver ;
+}
+.a3{
+    height : 50px ;
+    background-color : seagreen ;
+}
+.a4{
+    height : 50px ;
+    background-color : blue ;
+}
+.a5{
+    height  : 70px ;
+    background-color: wheat ;
+}.a0{
+    height : 200px ;
+    background-color : orange ;
+}
+#test1{
+    text-align: center ;
+    color : white ;
+}
+#test0{
+    text-align: left ;
+    color : black ;
+}
+.leverbe{
+    margin-left : 600px ;
+    border-bottom : 1px solid white ;
+}
+.lesbtn{
+    margin-left : 600px ;
+    margin-top : 10px ;
+    display : flex ;
+    flex-wrap  :  wrap  ;
+}
+#thebtn{
+    margin-left : 140px ;
+    position  : absolute ;
+}
+.boite{
+    width : 35px ;
+    height : 35px ;
+    border-radius : 17.5px ;
+    position : absolute  ;
+}
+#sbt{
+    margin-left: 750px ;
+    margin-top: 10px ;
+}
